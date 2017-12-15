@@ -1,0 +1,79 @@
+1. Linear Recursion 
+2. reversing an array 
+3. computing powers
+4. recursive squaring
+5. Tail Recursion // 没有处理
+6. Binary Recusive Method
+7. Fibonacci Numbers
+8. GCD
+9. example 
+
+https://www.programiz.com/c-programming/c-recursion 
+这个链接里面的图 可以帮助理解
+
+http://www.sanfoundry.com/c-programming-examples-recursion/
+这个链接是 目前用到的recursion的算法部分
+C Programming Examples using Recursion
+
+This section covers C programming examples using Recursion. Every example program includes the description of the program, C code as well as output of the program. All examples are compiled and tested on a Linux system. These examples can be simple C programs or advanced C programs. So, they are suitable for any user (dummies, beginners or advanced users). Here is the listing of C programming examples using Recursion.
+1. C Examples on Traversal of a Tree using Recursion
+
+To traverse means to visit the vertices in some systematic order. preorder: visit each node before its children. postorder: visit each node after its children. inorder (for binary trees only): visit left subtree, node, right subtree. Depth first search is a way of traversing graphs, which is closely related to preorder traversal of a tree. The following programs demonstrate the DFS traversal of a tree, common tree traversals using recursion. They also demonstrate reversal of a stack and finds the length of string using recursion.
+
+C Program for Depth First Binary Tree Search using Recursion
+C Program to Traverse the Tree Recursively
+C Program to Reverse a Stack using Recursion
+C Program to find the Length of the String using Recursion
+2. C Examples on Sorting Algorithms using Recursion
+
+The Merge Sort follows the Divide and Conquer rule where in it divides the input array into two halves, sorts the two halves and merges the two sorted halves. In Selection Sort, we repeatedly find the next largest (or smallest) element in the array and move it to its final position in the sorted array. A Fibonacci number is the number in which the first two numbers are 1 and 1 and the succeeding number is the sum of the two preceding numbers. The following programs show the implementation of Merge Sort, Selection Sort and Finding the Nth Fibonacci numbers. The program also performs Matrix Multiplication.
+
+C Program to Implement Selection Sort Recursively
+C Program to Input Few Numbers & Perform Merge Sort on them using Recursion
+C Program to find the Nth Fibonacci Number using Recursion
+C Program to find the Biggest Number in an Array of Numbers using Recursion
+C Program to find Sum of Digits of a Number using Recursion
+C Program to find Sum of N Numbers using Recursion
+C Program to Perform Matrix Multiplication using Recursion
+3. C Examples on Linked List Implementation using Recursion
+
+A Linked List is a dynamic data structure which contains memory blocks occupying random memory locations. The elements in the linked list are called nodes.The programs count the number of occurrences of an element in the linked list using recursion, determines the length of the linked list using recursion and prints the nodes in a linked list using recursion and without using recursion.
+
+C Program to Display the Nodes of a Linked List in Reverse using Recursion
+C Program to Display all the Nodes in a Linked List using Recursion
+C Program Count the Number of Occurrences of an Element in the Linked List using Recursion
+C Program find the Length of the Linked List using Recursion
+4. C Examples to illustrate Binary Search Algorithm and Tower of Hanoi Problem using Recursion
+
+The Quick Sort selects an element as a pivot and partitions the given array around the pivot. The Binary Search Algorithm follows the Divide and Conquer strategy where in it finds the item from the sorted list of items. A Palindrome is a string of characters which read the same forward and backward. The programs in the section demonstrate Binary Search, Quick Sort and determine if the given string is a Palindrome or not. It also demonstrates the reverse operation where it reverses the string entered by the user. It also copies the contents of one string into another using recursion. The tower of hanoi is a mathematical puzzle. It consists of three rods, and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top. We have to obtain the same stack on the third rod. The C Program uses recursive function & solves the tower of hanoi.
+
+C Program to Perform Binary Search using Recursion
+C Program to Perform Quick Sort on a set of Entries from a File using Recursion
+C Program to Reverse the String using Recursion
+C Program to find Reverse of a Number using Recursion
+C Program to Solve Tower-of-Hanoi Problem using Recursion
+C Program to Copy One String to Another using Recursion
+C Program to Check whether a given String is Palindrome or not using Recursion
+5. C Examples on Basic Mathematical Operations using Recursion
+
+A number is said to be prime if it is divisible by 1 and itself only. GCD of two integers is the largest positive integers that divides the two integers with remainder as 0 and LCM of two integers is the smallest positive integer that is the multiple of both the integers. A factorial is a function that multiplies a number by every number below it. Multiplying a number by itself gives the power of a number. The H.C.F. of two or more than two numbers is the greatest number that divides each of them exactly. The following programs determine if a number is prime or not, calculate the factorial, LCM, HCF, GCD and Power of the given numbers.
+
+C Program to find whether a Number is Prime or Not using Recursion
+C Program to find the Factorial of a Number using Recursion
+C Program to find LCM of a Number using Recursion
+C Program to find GCD of given Numbers using Recursion
+C Program to find HCF of a given Number using Recursion
+C Program to find Product of 2 Numbers using Recursion
+C Program to find Power of a Number using Recursion
+6. C Examples on Number System Conversion using Recursion
+
+The programs in the following section deals with the number system in mathematics. The binary equivalent of a number contains a set of 0’s and 1’s.The programs performs conversion of a number in decimal system to a number in binary system and print the binary equivalent of the number.It also prints the alternate nodes of a linked list.
+
+C Program to Print Binary Equivalent of an Integer using Recursion
+C Program to Print the Alternate Nodes in a Linked List using Recursion
+C Program to Convert a Number Decimal System to Binary System using Recursion
+C Program to find the First Capital Letter in a String using Recursion
+
+
+
+
